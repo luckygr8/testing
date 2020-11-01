@@ -2,9 +2,9 @@
 
 # dependencies
 /node_modules
+/blah
 /.pnp
 .pnp.js
-!password.txt
 
 # testing
 /coverage
