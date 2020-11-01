@@ -3,11 +3,10 @@ import ReactDom from 'react-dom'
 import './index.css'
 
 let items = [
-
-
-
-
-    
+    {title:'one',body:'message 1'},
+    {title:'two',body:'message 2'},
+    {title:'three',body:'message 3'},
+    {title:'four',body:'message 4'},
     {title:'one',body:'message 1'},
     {title:'two',body:'message 2'},
     {title:'three',body:'message 3'},
